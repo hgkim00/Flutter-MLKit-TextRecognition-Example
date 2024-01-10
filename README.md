@@ -1,4 +1,4 @@
-# datascience_camp_2024_practice
+# Flutter MLKit TextRecognition Example
 
 ### Version Info
 
